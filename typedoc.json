@@ -1,0 +1,5 @@
+{
+  "name": "date-util",
+  "json": "./tmp/docs.json",
+  "plugin": ["typedoc-plugin-missing-exports"]
+}
