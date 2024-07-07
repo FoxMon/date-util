@@ -1,5 +1,6 @@
 import { toDate } from "./toDate";
-import { addDayas } from "./addDays";
+import { add } from "./add";
+import { addDays } from "./addDays";
 import { addMonths } from "./addMonths";
 
-export { toDate, addDayas, addMonths };
+export { toDate, add, addDays, addMonths };

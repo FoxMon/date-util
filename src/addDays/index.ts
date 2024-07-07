@@ -1,7 +1,7 @@
 import { toDate } from "../toDate";
 import { constructFrom } from "../utils";
 
-export const addDayas = <T extends Date>(
+export const addDays = <T extends Date>(
   v: T | number | string,
   num: number
 ): T => {
